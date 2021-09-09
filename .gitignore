@@ -1,3 +1,4 @@
-/CMakeLists.txt
 /cmake-build-debug/
 /.idea/
+/real_driver.*
+/venv_driver.*
